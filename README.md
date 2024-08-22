@@ -1,4 +1,4 @@
-# Azure Service Bus in Action
+# Azure Service Bus Queue in Action
 <p>
   This is an example of Azure Service Bus in C#.  
 </p>
