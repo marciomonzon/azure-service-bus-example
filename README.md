@@ -7,10 +7,14 @@
   It has two projects, one is the sender and the other is the consumer. 
 </p>
 
+<br>
+
 ## Stack
 - .NET 8;
 - Console Applications: Sender and Consumer;
 - Nugget Package: Azure Messaging Service Bus.
+
+<br>
 
 ## How it Works?
 <p>
@@ -47,9 +51,3 @@
 ##References:
 - https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-queues-topics-subscriptions
 - https://www.udemy.com/course/microsoft-azure-for-net-developers/?couponCode=SKILLS4SALEB
-
-
-
-
-
-
