@@ -39,6 +39,7 @@
 
 ## Azure Service Bus Connection String
 <p>As mentioned before, the Sender and the Consumer must have the same connection string set. You can found it in the Settings / Shared Access Policies. Check the image below: </p>
+
 ![image](https://github.com/user-attachments/assets/71105648-330b-48b2-bfd0-0ec6be30f12e)
 
 <p>
