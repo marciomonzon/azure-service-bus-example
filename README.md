@@ -20,7 +20,10 @@
 </p>
 <p>
   As this is a Publish-Subscribe architecture, the Sender and Consumer <b>must have the same Service Bus Connection String</b> set in the code.
-  Check the diagram below to a better understanding
+  Check the diagram below to a better understanding.
 </p>
+
+![AzureServiceBus drawio](https://github.com/user-attachments/assets/26b0dea5-3799-4051-8943-ad3e2bf60c9d)
+
 
 
