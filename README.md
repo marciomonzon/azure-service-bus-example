@@ -44,8 +44,9 @@
 
 <p>
   In the example project, I used the Primary Connection String, which in my tests was set in the follow constant:
-  <img width="391" alt="image" src="https://github.com/user-attachments/assets/3b60c94b-b00c-410c-ae04-db09e68d95d8">
 </p>
+
+<img width="391" alt="image" src="https://github.com/user-attachments/assets/3b60c94b-b00c-410c-ae04-db09e68d95d8">
 
 <br>
 
