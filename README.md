@@ -58,4 +58,3 @@
 
 ## References:
 - https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-queues-topics-subscriptions
-- https://www.udemy.com/course/microsoft-azure-for-net-developers/?couponCode=SKILLS4SALEB
